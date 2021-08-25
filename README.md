@@ -1,5 +1,6 @@
 # web_detective_part2
-Welcome, and thank you for opening this Project. This project contains: 
+Welcome, and thank you for opening this Project. 
+This project contains: 
 2 jupyter notebook : Data_clean and Data_analyzis
 3 folders : Graphe (Graph PNG files)
             Clean (py file with cleaning function)
